@@ -6,7 +6,7 @@ public enum UseYn implements CodeEnumModel {
 
     Y(1,"Y"),
 
-    N(2,"N");
+    N(0,"N");
 
     private int type;
     private String name;
